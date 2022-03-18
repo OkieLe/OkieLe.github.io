@@ -132,5 +132,5 @@ Comments：
 
 I created an Android Demo. Android phone(Central) connects an Android watch, and once user click the APP in watch, a message will be sent to Android phone. In case you're interested:
 
-- [Central Demo](https://github.com/boopited/BtComm)
-- [Peripheral Demo](https://github.com/boopited/BtWear)
+- [Central Demo](https://github.com/OkieLe/BtComm)
+- [Peripheral Demo](https://github.com/OkieLe/BtWear)
