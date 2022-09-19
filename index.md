@@ -11,6 +11,5 @@ There are notes about:
 - [Android](docs/mobile)
 - [Web UI](docs/web)
 - [IoT/Devices](docs/iot)
-- [Backend](docs/backend)
 - ...
 
